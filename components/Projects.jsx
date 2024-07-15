@@ -23,8 +23,8 @@ export default function Projects() {
                         ))}
                     </div>
                     <div className="md:w-3/4">
-                        {project.projectDemoLink && <a href={project.projectDemoLink} className="md:mr-4 hover:text-call-to-action-color underline mr-2">Demo</a>}
-                        {project.projectRepoLink && <a href={project.projectRepoLink} className="hover:text-call-to-action-color underline">Repo</a>}
+                        {project.projectDemoLink && <a href={project.projectDemoLink} className="md:mr-4 hover:text-call-to-action-color underline mr-2" target='_blank'>Demo</a>}
+                        {project.projectRepoLink && <a href={project.projectRepoLink} className="hover:text-call-to-action-color underline" target='_blank'>Repo</a>}
                     </div>
                 </div>
             ))}

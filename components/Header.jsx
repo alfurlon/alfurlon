@@ -45,7 +45,7 @@ export default function Header() {
                 <div className='md:hidden mt-4 mr-4'>
                     <a 
                         className='bg-call-to-action-color rounded-md w-20 text-center py-1 mt-2 px-3 font-medium'
-                        href='/resume.pdf'
+                        href='/portfolio/resume.pdf'
                         target='_blank'
                         rel="noopener noreferrer"
                         aria-label='Austin Furlong resume. Opens a new tab.'
