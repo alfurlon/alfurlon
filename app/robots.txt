@@ -119,4 +119,4 @@ Disallow: /
 User-agent: YouBot
 Disallow: /
 
-Sitemap: https://austinfurlong.com/sitemap.xml
+Sitemap: https://alfurlon.github.io/portfolio/sitemap.xml
